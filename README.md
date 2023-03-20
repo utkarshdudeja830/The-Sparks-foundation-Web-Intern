@@ -5,9 +5,9 @@ Task 3- Adding Payment gateway integration
 ![homepage](https://user-images.githubusercontent.com/72224429/226358260-e54603a7-bc8b-4914-b8fe-576171eaeb4b.png)
 
 2.Donation page 
-![donate](https://user-images.githubusercontent.com/68149009/129959784-920036b3-3daf-4756-b07c-4a0ae891aa7e.png)
-![donation](https://user-images.githubusercontent.com/68149009/129959890-fa392031-cf29-45ba-98e8-34aa7bb0f78c.png)
-![receipt](https://user-images.githubusercontent.com/68149009/129959927-b4cc3e3c-d5ec-48d2-a702-fd4de090f35d.png)
+![donate](https://user-images.githubusercontent.com/72224429/226360078-fc734f2e-a813-476e-b59e-d59dcc7049a9.png)
+![donation](https://user-images.githubusercontent.com/72224429/226360448-d4bef980-646e-49da-bb2a-644647c3e7c4.png)
+![details](https://user-images.githubusercontent.com/72224429/226360700-ca4ca9db-5f7f-43ab-bd8b-96becac68b9b.png)
 
 
 
